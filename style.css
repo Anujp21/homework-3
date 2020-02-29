@@ -1,0 +1,10 @@
+.divcenter{
+    text-align:center;
+}
+
+.bordereddiv{
+    border-style: solid;
+    border-width: 4px;
+    border-color: green;
+    display: inline-block;
+}
